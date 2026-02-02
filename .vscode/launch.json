@@ -1,0 +1,18 @@
+{
+"version": "0.2.0",  
+    "configurations": [  
+        {  
+            "name": "Pybricks: Run on Hub",  
+            "type": "debugpy",  
+            "request": "launch",  
+            "module": "pybricksdev",  
+            "args": [  
+                "run",  
+                "ble",  
+                "${file}",  
+                "--name",  
+                "TestHub"  
+            ]  
+        }  
+    ]  
+}
