@@ -30,10 +30,3 @@ Right_motor.stop()
 Left_motor.stop()
 
 
-
-
-
-while False:
-    #hub.speaker.beep(300, 1000)
-    wait(1000)  
-  
